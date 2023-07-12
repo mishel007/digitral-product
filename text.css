@@ -22,3 +22,28 @@ justify-content: space-around;
 .margin{
     margin-right: 13px;
 }
+.banner-image{
+   
+}
+.banner-container{
+    display: flex; justify-content: space-around;
+    height: 100vh;align-items: center;
+    background-image: url("digital-agency-b8/asset/image/background.jpg");
+}
+.banner-text{
+    color: rgb(180, 159, 118);
+}
+.title{
+    size: 15px; color: crimson;
+}
+.p1{
+    margin-top: 15px;
+    margin-bottom: 13px;
+    color: aliceblue;
+}
+.btn1{
+    background-color: red;
+    color: rgb(177, 201, 223);
+    border-radius: 5px;
+    padding: 10px 20px ;
+}
